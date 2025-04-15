@@ -1,5 +1,5 @@
- # CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
-  ## AIM
+# CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
+## AIM
 To Create S3 bucket and EC2 Instances for Linux and Windows.
 ## PROBLEM STATEMENT
 This experiment aims to demonstrate the creation of an Amazon S3 bucket for storage purposes and the setup of EC2 instances for both Linux and Windows operating systems using AWS. Amazon S3 (Simple Storage Service) provides secure and scalable object storage, while EC2 (Elastic Compute Cloud) allows users to deploy virtual servers for computation and application hosting.
@@ -46,8 +46,8 @@ Launch Linux EC2 instance and set up SSH access.
 Launch Windows EC2 instance and connect using RDP.
 
 ## OUTPUT
-### REG NUMBER:212223220105
-### NAME:SHANMUGAKARTHIK G
+### REG NUMBER: 212223100032
+### NAME: MARIO VIOFER J
 
 #### S3 buckets:
 ![image](https://github.com/user-attachments/assets/2320b883-64b8-45e4-aa70-cb3499a029d4)
