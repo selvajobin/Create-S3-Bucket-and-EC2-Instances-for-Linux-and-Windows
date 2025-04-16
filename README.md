@@ -50,22 +50,15 @@ Launch Linux EC2 instance and set up SSH access.
 Launch Windows EC2 instance and connect using RDP.
 
 ## OUTPUT
-
 #### S3 buckets:
 ![387316032-2320b883-64b8-45e4-aa70-cb3499a029d4](https://github.com/user-attachments/assets/6556aa0b-44db-4375-89f4-ec7e548f8d1b)
-
 ![image](https://github.com/user-attachments/assets/25559cac-fc7f-4ef6-a1be-16dbc8775267)
-
-
 #### EC2:
 ![creation of linux machine](https://github.com/user-attachments/assets/1690bd8a-bf80-40a3-94f0-5cb249834f79)
-
 ![creation of windows machine](https://github.com/user-attachments/assets/68bf1fc0-31da-4fe3-965c-93b5eeede6db)
-
-
  
 ## RESULT
- Thus ,The experiment to create an S3 bucket and launch EC2 instances for Linux and Windows is successfully completed.
+Thus ,The experiment to create an S3 bucket and launch EC2 instances for Linux and Windows is successfully completed.
 
   
 
